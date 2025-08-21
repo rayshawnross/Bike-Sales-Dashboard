@@ -19,7 +19,7 @@ The goal of the project is to analyze customer demographics and trends related t
 ---
 
 ## 📸 Dashboard Preview  
-![Bike Sales Dashboard]()
+![Bike Sales Dashboard](Dashboard chart.jpg)
 
 ---
 
